@@ -16,7 +16,7 @@ class Helper(object):
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ
 ──────────────────────
 ➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/BOTxBOOSTER)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Itzthakur_366)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](BABA_OWNERR)
 ─────────────────────────**
 '''
 
@@ -42,7 +42,7 @@ class Helper(object):
 
 <blockquote><b>💮 ᴀᴜᴛᴏᴘʟᴀʏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅs ʀᴇʟᴀᴛᴇᴅ ᴛʀᴀᴄᴋs ᴛᴏ ᴛʜᴇ ǫᴜᴇᴜᴇ, ᴋᴇᴇᴘɪɴɢ ᴛʜᴇ ᴍᴜsɪᴄ sᴛʀᴇᴀᴍ ɢᴏɪɴɢ.</b></blockquote>
 
-<b><u>⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- <a href="https://t.me/Iamthakur007">ᴀɴsʜᴜᴍᴀɴ</a></u></b>
+<b><u>⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- <a href="https://t.me/BABA_OWNERR">𐌌᰻⃪᱂ 𖤓 𝛣 𝛢 𝛣 𝛢</a></u></b>
 '''
 
     HELP_VC = '''
@@ -55,7 +55,7 @@ class Helper(object):
 
 <blockquote><b>💮 ᴠᴄ ʟᴏɢɢᴇʀ ᴍᴏɴɪᴛᴏʀs ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴀᴄᴛɪᴠɪᴛʏ ᴀɴᴅ ᴋᴇᴇᴘs ᴛʀᴀᴄᴋ ᴏғ ᴠᴄ ᴇᴠᴇɴᴛs.</b></blockquote>
 
-<b><u>⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- <a href="https://t.me/Iamthakur007">ᴀɴsʜᴜᴍᴀɴ</a></u></b>
+<b><u>⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- <a href="https://t.me/BABA_OWNERR">𐌌᰻⃪᱂ 𖤓 𝛣 𝛢 𝛣 𝛢</a></u></b>
 '''
 
     HELP_THUMB = '''
@@ -70,5 +70,5 @@ class Helper(object):
 <blockquote><b>๏ ᴇɴᴀʙʟᴇ : sʜᴏᴡ ᴛʜᴇ sᴏɴɢ ᴛʜᴜᴍʙɴᴀɪʟ.</b>
 <b>๏ ᴅɪsᴀʙʟᴇ : ᴘʟᴀʏ ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟ.</b></blockquote>
 
-<b><u>⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- <a href="https://t.me/Iamthakur007">ᴀɴsʜᴜᴍᴀɴ</a></u></b>
+<b><u>⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- <a href="https://t.me/BABA_OWNERR">𐌌᰻⃪᱂ 𖤓 𝛣 𝛢 𝛣 𝛢</a></u></b>
 '''
