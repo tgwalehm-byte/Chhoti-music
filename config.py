@@ -63,7 +63,7 @@ STRING7 = getenv("STRING_SESSION7", None)
 
 # ======================================================
 START_IMG_URL = getenv("START_IMG_URL", "https://anya-file-host.vercel.app/yf12dfgec1")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/leaexg.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://anya-file-host.vercel.app/xm492wlsvs")
 
 PLAYLIST_IMG_URL = "https://files.catbox.moe/b0e4vk.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/psya34.jpg"
