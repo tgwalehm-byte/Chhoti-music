@@ -69,11 +69,11 @@ def aq_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text="ᴊᴏɪɴ ɴᴏᴡ",
-                url=f"https://t.me/BOTxBOOSTER"
+                url=f"https://t.me/messo_network"
             ),
             InlineKeyboardButton(
                 text="ɢʀᴏᴜᴘ ᴄʜᴧᴛ",
-                url="https://t.me/BOTxBOOSTER"
+                url="https://t.me/Chhoti_bot_support"
             ),
         ],
         [
