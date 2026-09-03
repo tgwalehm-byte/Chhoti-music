@@ -77,7 +77,7 @@ SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
 
 SHASHANK_PIC = [
-    "https://anya-file-host.vercel.app/ups5eq51s6"
+    "https://anya-file-host.vercel.app/xm492wlsvs"
 ]
 # ======================================================
 BANNED_USERS = filters.user()
