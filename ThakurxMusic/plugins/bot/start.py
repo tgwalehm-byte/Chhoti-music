@@ -210,11 +210,9 @@ async def start_pm(client, message: Message, _):
 # SUPPORT PANEL
 # ==========================================================
 
-@app.on_callback_query(
-    filters.regex("^purvi_scb$") & ~BANNED_USERS
-)
+@app.on_callback_query(filters.regex("purvi_scb") & ~BANNED_USERS)
 @languageCB
-async def support(client, CallbackQuery: CallbackQuery, _):
+async def support(client, CallbackQuery, _):
     await CallbackQuery.edit_message_text(
         text=f"""
 <b><u>✨ {app.mention} ꜱᴜᴘᴘᴏʀᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ</u>
@@ -229,18 +227,18 @@ async def support(client, CallbackQuery: CallbackQuery, _):
             [
                 [
                     InlineKeyboardButton(
-                        text="˹ sυᴘᴘσʀᴛ ˼",
-                        url=config.SUPPORT_CHAT,
+                        text="˹ sυᴘᴘσʀᴛ ˼", url=config.SUPPORT_CHAT
                     ),
                     InlineKeyboardButton(
-                        text="˹ υᴘᴅᴧᴛєs ˼",
-                        url=config.SUPPORT_CHANNEL,
+                        text="˹ υᴘᴅᴧᴛєs ˼", url=config.SUPPORT_CHANNEL
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="⌯ ʙᴧᴄᴋ ⌯",
-                        callback_data="settingsback_helper",
+                        text="˹ ❍ᴡηєʀ ˼", user_id=config.OWNER_ID
+                    ),
+                    InlineKeyboardButton(
+                        text="⌯ ʙᴧᴄᴋ ⌯", callback_data="settingsback_helper"
                     ),
                 ],
             ]
