@@ -34,8 +34,8 @@ def private_panel(_):
                 callback_data="purvi_scb",
             ),
             InlineKeyboardButton(
-                text="˹ ❍ᴡηєʀ ˼",
-                user_id=config.OWNER_ID,
+                text="🌐 Lᴀɴɢᴜᴀɢᴇ",
+                callback_data="LG",
             ),
         ],
         [
