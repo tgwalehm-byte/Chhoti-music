@@ -45,8 +45,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "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")
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/appu_update")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Kannadas_chatting_group")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/messo_network")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Chhoti_bot_support")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
