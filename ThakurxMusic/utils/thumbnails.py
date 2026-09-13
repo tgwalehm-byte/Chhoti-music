@@ -88,7 +88,7 @@ def trim_text(text, font, max_width):
     except Exception:
         return text[:60]
 
-async def get_thumb(videoid: str, progress_percent: int = 0, use_cache: bool = True, user_name: str = "Jackson") -> str:
+async def get_thumb(videoid: str, progress_percent: int = 0, use_cache: bool = True, user_name: str = "𝐁𝐀𝐁𝐀") -> str:
     print(f"📥 get_thumb called with videoid: {videoid}, progress: {progress_percent}%")
 
     use_cache = False
@@ -264,7 +264,7 @@ async def get_thumb(videoid: str, progress_percent: int = 0, use_cache: bool = T
 
         draw.text(
             (TITLE_X, PLAYER_Y),
-            "Player | @Samaelmusicbot",
+            "Player | @chhotimusicbot",
             fill=(190,190,190),
             font=meta_font
         )
