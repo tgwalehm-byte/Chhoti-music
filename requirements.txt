@@ -1,6 +1,5 @@
 aiofiles
-aiohttp 
-asyncio 
+aiohttp
 dnspython
 ffmpeg-python
 gitpython
@@ -8,7 +7,7 @@ hachoir
 heroku3
 psutil
 apscheduler
-motor 
+motor
 pillow==9.5.0
 py-tgcalls
 ntgcalls
